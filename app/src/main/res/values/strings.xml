@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="num1_text">Enter the first number</string>
+    <string name="num2_text">Enter the second number</string>
+    <string name="res_view">Result</string>
+    <string name="addBtn">ADD</string>
+    <string name="subBtn">SUBTRACT</string>
+    <string name="mulBtn">MULTIPLY</string>
+    <string name="divBtn">Divide</string>
+    <string name="advBtn">Advanced Mode</string>
+    <string name="sinBtn">SINE</string>
+    <string name="cosBtn">COSINE</string>
+    <string name="tanBtn">TAN</string>
+    <string name="sqrtBtn">SQRT</string>
+    <string name="sqrBtn">Square</string>
+    <string name="logBtn">Log</string>
+    <string name="clrBtn">Clr Text</string>
+    <string name="num1_text_activity2">Enter The Number </string>
+    <string name="historyBtn">HISTORY</string>>
+
+</resources>
